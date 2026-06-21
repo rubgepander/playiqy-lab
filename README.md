@@ -1,2 +1,14 @@
 # playiqy-lab
-HTML page archive and documentation
+
+自动发布文件目录
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 文件说明
+
+- `README.md`：仓库说明
+- `*.html`：发布后的独立页面
+
+## 备注
+
+仓库内容用于静态页面归档，具体页面请以 HTML 文件为准。
